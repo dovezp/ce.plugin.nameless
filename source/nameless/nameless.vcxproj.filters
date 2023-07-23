@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="hide">
+      <UniqueIdentifier>{6c19fdf9-9791-4d9c-a779-f99dd3290c47}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="plugin">
+      <UniqueIdentifier>{f3b31f72-12f2-468a-828f-e14a255cfba1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="plugin\dependencies">
+      <UniqueIdentifier>{650c8b9c-f18d-47e2-a045-78f2b88b1181}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="plugin\details">
+      <UniqueIdentifier>{1df10471-b2da-4b2d-a4a8-ac6b3f620b90}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="plugin\entry">
+      <UniqueIdentifier>{b3eb3ac6-e027-4394-9350-5b7bdcffbbd1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="plugin\exports">
+      <UniqueIdentifier>{b08b926d-7fb8-4f86-b62e-69c3e7ffdf81}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="plugin\hooks">
+      <UniqueIdentifier>{e75acadc-af00-4486-aefd-cf7b25b88f89}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="plugin\imports">
+      <UniqueIdentifier>{f443f06e-c4d4-43a3-a0cc-8073ecdb955d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="plugin\settings">
+      <UniqueIdentifier>{613319d2-df13-4193-a29d-0a27e8cb5911}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="hide\hide.hpp">
+      <Filter>hide</Filter>
+    </ClInclude>
+    <ClInclude Include="plugin\dependencies.hpp">
+      <Filter>plugin\dependencies</Filter>
+    </ClInclude>
+    <ClInclude Include="plugin\details.hpp">
+      <Filter>plugin\details</Filter>
+    </ClInclude>
+    <ClInclude Include="plugin\exports.hpp">
+      <Filter>plugin\exports</Filter>
+    </ClInclude>
+    <ClInclude Include="plugin\hooks.hpp">
+      <Filter>plugin\hooks</Filter>
+    </ClInclude>
+    <ClInclude Include="plugin\imports.hpp">
+      <Filter>plugin\imports</Filter>
+    </ClInclude>
+    <ClInclude Include="plugin\plugin.hpp">
+      <Filter>plugin</Filter>
+    </ClInclude>
+    <ClInclude Include="plugin\settings.hpp">
+      <Filter>plugin\settings</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="hide\hide.cpp">
+      <Filter>hide</Filter>
+    </ClCompile>
+    <ClCompile Include="plugin\entry.cpp">
+      <Filter>plugin\entry</Filter>
+    </ClCompile>
+    <ClCompile Include="plugin\hooks.cpp">
+      <Filter>plugin\hooks</Filter>
+    </ClCompile>
+    <ClCompile Include="plugin\plugin.cpp">
+      <Filter>plugin</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
