@@ -1,33 +1,35 @@
 
-# Cheat Engine - Plugin
-## Nameless - The Cheat Engine Renamer 
+# Nameless - The Cheat Engine Renamer Plugin
 
-This is a simple plugin to help bypass anti-cheat window title detection methods. 
+Welcome to the Nameless Cheat Engine Renamer Plugin repository! If you're a gaming enthusiast or a software developer working in the realm of cheats and hacks, you're about to discover a powerful tool that helps you stay ahead of nonintrusive anti-cheat mechanisms with ease.
 
-![](https://i.imgur.com/Xm1ZwmT.png)
+### Key Features
+* Subvert Detection: This plugin empowers you to bypass anti-cheat window title detection methods, giving you a stealthy advantage.
 
-## SDK Versions 
+* Simple and Effective: Designed with simplicity in mind, the Nameless Plugin seamlessly integrates into Cheat Engine, allowing you to focus on what matters most: outsmarting anti-cheats.
 
-* [v5.0.0](https://github.com/dovezp/ce.plugin.nameless/tree/v5.0.0)
+* Stay Ahead: By outmaneuvering anti-cheat systems, you can continue to explore game mechanics and uncover hidden features without detection.
+
+### Feature Demo
+See the Nameless Plugin in action:
+
+![Nameless in Action](https://i.imgur.com/Xm1ZwmT.png)
+
+### Building the Code
+
+You can get started with the Nameless Plugin by visiting the [v5.0.0](https://github.com/dovezp/ce.plugin.nameless/tree/v5.0.0) version branch. You can continue the develop of the project in Visual Studio 2015 or later with Windows SDK 7.1 & 8.1 or Visual Studio 2017-2022 with Windows SDK 10 & 11. Compatibility with previous windows versions is supported but requires compiling with older versions of Windows SDK (7.0 / 7.1).
 
 ## License
 
-This project is licensed under the [BSD 3-Clause License (Revised)](https://tldrlegal.com/license/bsd-3-clause-license-(revised)). 
-<!--  -->
+This project operates under the [BSD 3-Clause License (Revised)](https://tldrlegal.com/license/bsd-3-clause-license-(revised)) ensuring a flexible and open environment for contributors and users.
 
 ## Feedback
 
-I welcome your constructive input - both negative and positive. I will continue to try to provide updates when able. At some point you may find errors, inconsistencies, or methods that could be improved, or are missing altogether. Your feedback is critical to help improve future revisions.
+Your insights, whether positive or critical, are highly valued. Continuous improvement is my goal, and your feedback plays a pivotal role in shaping the future of the Nameless Plugin.
 
-The best way to reach out is by opening a new issue in this repository:
+Feel free to share your thoughts and observations by opening a new issue in the repository's issue section. By addressing potential errors, inconsistencies, and suggestions, we can collectively work towards a stronger and more effective tool.
 
-https://github.com/dovezp/ce.plugin.nameless/issues
-
-Please be sure to refer to what your situation is when giving feedback and if possible link the topic in question.
-
-Many thanks.
-
-<hr/>
+Thank you for contributing to the evolution of the Nameless Cheat Engine Renamer Plugin.
 
 <p align="center">
   <p align="center">
