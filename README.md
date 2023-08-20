@@ -30,7 +30,7 @@ You can get started with the Nameless Plugin by visiting the Cheat Engine SDK [5
 * Both x86 and x64 `nameless` builds reference the same `nameless.ini` file
 
 #### Plugin Setup
-1. Extract the most recent RELEASE zip release into the root directory for `Cheat Engine`
+1. Extract the most recent [release](https://github.com/dovezp/ce.plugin.nameless/releases) build into the root directory for `Cheat Engine`
     * The root directory where `cheatengine-i386.exe` / `cheatengine-x86_64.exe` is located
 2. If needed, configure the `nameless.ini` settings file
 3. Start Cheat Engine
