@@ -2,6 +2,13 @@
 
 Welcome to the Nameless Cheat Engine Renamer Plugin repository! If you're a gaming enthusiast or a software developer working in the realm of cheats and hacks, you're about to discover a powerful tool that helps you stay ahead of nonintrusive anti-cheat mechanisms with ease.
 
+### Repository Status Update
+As you may have noticed, there have been no updates or developments since November 2020. This period of inactivity has led me to reflect on the project's trajectory. The absence of updates indicates a shift in priorities and resources to other projects.
+
+While the Nameless Plugin remains valuable and relevant for Cheat Engine users, I am are fully aware of the positive impact it has had on your efforts in reverse engineering. After careful consideration, I have made the decision to archive the Nameless Plugin repository.
+
+I encourage you to continue utilizing the Nameless Plugin in your work. Additionally, I'm open to exploring possibilities that may allow for its continued utility and development in the future.
+
 ### Key Features
 * Subvert Detection: This plugin empowers you to bypass nonintrusive anti-cheat window title detection methods, giving you a stealthy advantage.
 
