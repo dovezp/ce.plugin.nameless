@@ -17,7 +17,7 @@ See the Nameless Plugin in action:
 
 ### Building the Code
 
-You can get started with the Nameless Plugin by visiting the [v5.0.0](https://github.com/dovezp/ce.plugin.nameless/tree/v5.0.0) version branch. You can continue the develop of the project in Visual Studio 2015 or later with Windows SDK 7.1 & 8.1 or Visual Studio 2017-2022 with Windows SDK 10 & 11. Compatibility with previous windows versions is supported but requires compiling with older versions of Windows SDK (7.0 / 7.1).
+You can get started with the Nameless Plugin by visiting the Cheat Engine SDK [5.0.0](https://github.com/dovezp/ce.plugin.nameless/tree/5.0.0) version branch. You can continue the develop of the project in Visual Studio 2015 or later with Windows SDK 7.1 & 8.1 or Visual Studio 2017-2022 with Windows SDK 10 & 11. Compatibility with previous windows versions like, Windows XP, is supported but requires compiling with older versions of Windows SDK (7.0, 7.1, and/or 8.1).
 
 ## License
 
